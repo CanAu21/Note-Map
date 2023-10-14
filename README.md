@@ -1,15 +1,14 @@
 # Note Map
-    <br>
+<br>
 A program was made to determine the plans on the map
 
 # TECHNOLOGIES
-    <br>
+<br>
 ``
 HTML
 CSS
 JS
 ``
-
-    <br>
-    <br>
+<br>
+<br>
 <img src="./images/Map.gif">
